@@ -84,7 +84,11 @@ body {
 
 .products>h1 {
     text-align: center;
-    padding: 1em;
+    padding: 0.5em;
+    background-image: linear-gradient(to right, #0f1e31, #435179);
+    color: #ffffff;
+    font-family: 'Goldman', cursive;
+    margin-bottom: 1em;
 
 }
 
@@ -126,4 +130,49 @@ body {
 
 .fa-users {
     color: orange;
+}
+
+.hard-left>p {
+    font-size: 1.3em;
+    font-family: 'Josefin Sans', sans-serif;
+}
+
+.hard-right {
+    background-image: url("./images/img8.jpg");
+    background-size: 100% 100%;
+    background-repeat: no-repeat;
+}
+
+.hardware>h1 {
+    text-align: center;
+    padding: 0.5em;
+    background-image: linear-gradient(to right, #0f1e31, #435179);
+    color: #ffffff;
+    font-family: 'Goldman', cursive;
+    margin-bottom: 1em;
+
+}
+
+.sales>h1 {
+    text-align: center;
+    padding: 0.5em;
+    background-image: linear-gradient(to right, #0f1e31, #435179);
+    color: #ffffff;
+    font-family: 'Goldman', cursive;
+    margin-bottom: 1em;
+}
+
+.sales>.d-flex>.fa-solid {
+    color: #4C9BF6 !important;
+}
+
+.sales>.d-flex {
+    font-size: 1.3em;
+    font-family: 'Josefin Sans', sans-serif;
+    margin-bottom: 3em;
+}
+
+.sales>.d-flex>p {
+    margin-top: 0.3em;
+    margin-left: 0.5em;
 }
