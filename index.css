@@ -160,6 +160,7 @@ body {
     color: #ffffff;
     font-family: 'Goldman', cursive;
     margin-bottom: 1em;
+    margin-top: 1em;
 }
 
 .sales>.d-flex>.fa-solid {
@@ -175,4 +176,63 @@ body {
 .sales>.d-flex>p {
     margin-top: 0.3em;
     margin-left: 0.5em;
+}
+
+.store-left>p {
+    font-size: 1.3em;
+    font-family: 'Josefin Sans', sans-serif;
+}
+
+.store-right {
+    background-image: url("./images/img9.jpg");
+    background-size: 100% 100%;
+    background-repeat: no-repeat;
+}
+
+.storage>h1 {
+    text-align: center;
+    padding: 0.5em;
+    background-image: linear-gradient(to right, #0f1e31, #435179);
+    color: #ffffff;
+    font-family: 'Goldman', cursive;
+    margin-bottom: 1em;
+
+}
+
+.support-left>p {
+    font-size: 1.3em;
+    font-family: 'Josefin Sans', sans-serif;
+    border-top: #4C9BF6 2px solid;
+    padding-top: 1em;
+}
+
+.support-right {
+    background-image: url("./images/img10.jpg");
+    background-size: 100% 100%;
+    background-repeat: no-repeat;
+}
+
+.support>h1 {
+    text-align: center;
+    padding: 0.5em;
+    background-image: linear-gradient(to right, #0f1e31, #435179);
+    color: #ffffff;
+    font-family: 'Goldman', cursive;
+    margin-bottom: 1em;
+    margin-top: 1em;
+}
+
+.outsourced {
+    margin-top: 2em;
+}
+
+.out-left {
+    margin-top: 7em;
+    font-family: 'Josefin Sans', sans-serif;
+    font-size: 1.3em;
+}
+
+.out-left>h1 {
+    color: #66AAF7;
+    font-size: 2em;
 }
