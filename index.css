@@ -1,0 +1,129 @@
+html {
+    height: 100vh !important;
+}
+
+body {
+    height: 100vh !important;
+}
+
+.top-img {
+
+
+    box-shadow: 7px 7px 6px #c2c2c2,
+        -7px -7px 6px #ffffff;
+
+}
+
+.mob {
+    display: none !important;
+}
+
+.navbar {
+    padding: 0.5em 1em 0em 1em;
+
+
+}
+
+.navbar-nav {
+    padding-left: 3em;
+    width: 100%;
+}
+
+.nav-div {
+    width: 100% !important;
+}
+
+.nav-link {
+    color: #000;
+}
+
+.nav-link:hover {
+    color: #000;
+}
+
+.navbar-brand>.img-fluid {
+    width: 4em
+}
+
+.main-nav {
+    margin-top: 0.7em;
+    width: 100%;
+}
+
+.top {
+    background-image: url("./images/img6.jpg");
+    background-size: 100% 100%;
+    background-repeat: no-repeat;
+    height: 60vh !important;
+    color: #ffffff;
+    font-family: 'Goldman', cursive;
+
+}
+
+.top>.d-flex>h1 {
+    font-size: 5em !important
+}
+
+.who>h1 {
+    text-align: center;
+    padding: 2em;
+
+}
+
+.who>.right>.img-fluid {
+    margin-top: -4em;
+}
+
+.who>.left {
+    font-family: 'Josefin Sans', sans-serif;
+    font-size: 1.3em;
+    margin-top: 1em;
+}
+
+.products {}
+
+.products>h1 {
+    text-align: center;
+    padding: 1em;
+
+}
+
+.service>.d-flex {
+    font-size: 1.3em;
+    font-family: 'Josefin Sans', sans-serif;
+    margin-bottom: 3em;
+}
+
+.service>.d-flex>p {
+    margin-top: 0.3em;
+    margin-left: 0.5em;
+}
+
+.fa-solid {
+    font-size: 2em;
+}
+
+.fa-computer {
+    color: orange;
+
+}
+
+.fa-database {
+    color: #c2c2c2;
+}
+
+.fa-handshake {
+    color: rgb(250, 213, 5);
+}
+
+.fa-lock {
+    color: rgb(9, 140, 248);
+}
+
+.fa-list-check {
+    color: #00f989;
+}
+
+.fa-users {
+    color: orange;
+}
