@@ -236,3 +236,36 @@ body {
     color: #66AAF7;
     font-size: 2em;
 }
+
+.promoters {
+    font-family: 'Josefin Sans', sans-serif;
+    font-size: 1.3em;
+}
+
+.promoters>h1 {
+    text-align: center;
+    padding: 0.5em;
+    background-color: #333333;
+    color: #ffffff;
+    font-family: 'Goldman', cursive;
+    margin-bottom: 1em;
+    margin-top: 1em;
+}
+
+.promoters>.col-lg-5 {
+    margin: 2em 3em;
+}
+
+.promoters>.col-lg-5>h1 {
+
+    color: #66AAF7;
+    font-size: 2em;
+
+}
+
+.footer {
+    background-image: url("./images/img4.jpeg");
+    background-size: 100% 100%;
+    background-repeat: no-repeat;
+    height: 30em;
+}
